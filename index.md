@@ -39,6 +39,7 @@
 
 ## [구성 요소]
 1) 오브젝트 이름: BP_AIDragon
+
 |속성|영문명칭|설명|
 |Pawn|Target|AI가 쫒아가서 공격할 타겟 레퍼런스|
 |Int|AttackCounts|어떤 공격을 할 것인지 나타내는 변수|
